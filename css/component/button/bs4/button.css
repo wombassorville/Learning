@@ -51,16 +51,6 @@
     font-size: 1.25038rem;
 }
 
-.ec {
-    display: inline-block;
-    font: normal normal normal 14px/1 font-electro;
-    font-size: inherit;
-    text-rendering: auto;
-    vertical-align: middle;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
 .pl-5, .px-5 {
     padding-left: 2rem!important;
 }
